@@ -226,7 +226,7 @@ Set Users can register applications to No
   This application can be accessible without being reviewed.</value>
   </data>
   <data name="UserRegisterApplications_Title" xml:space="preserve">
-    <value>Check if users can consent to any app</value>
+    <value>Check if users can register applications</value>
   </data>
   <data name="GuestUserAccessRestriction1_Description" xml:space="preserve">
     <value>The purpose of this rule is to ensure that the guest user has not the same access level than a user</value>
